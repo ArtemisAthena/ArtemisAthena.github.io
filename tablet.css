@@ -1,0 +1,40 @@
+@media only screen and (max-width: 992px) and (min-width: 768px) {
+    img {
+        padding-bottom: 15%;
+        padding-left: 5%;
+    }
+    #menu {
+        background-color: slategray;
+        height: 60px;
+        font-size: 80%;
+    }
+    #menu-t1 {
+        color: #c4c4c4 !important;
+        top: 30px;
+        left: 20px;
+        position: absolute;
+    }
+    #menu-t2 {
+        color: #c4c4c4 !important;
+        top: 30px;
+        position: absolute;
+        right: 20px;
+    }
+    .b,
+    a {
+        color: white;
+    }
+    .btm {
+        padding-bottom: 5%;
+    }
+    #credit {
+        width: 100%;
+    }
+    #ng {
+        font-size: 6vw;
+    }
+    #centered-top,
+    h1 {
+        font-size: 6vw;
+    }
+}
