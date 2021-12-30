@@ -93,7 +93,8 @@ a {
         object-position: 0% 100%;
     }
     li {
-        font-size: 3.7vw;
+        font-size: 3.7vw; 
+        padding: 1vw;
     }
     img {
         width: 80vw;
