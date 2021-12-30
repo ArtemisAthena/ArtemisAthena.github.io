@@ -74,7 +74,7 @@ img {
 }
 
 @media only screen and (max-width: 768px) {
-        li {
+    li {
         font-size: 3.7vw; 
         padding: 1vw;
     }
