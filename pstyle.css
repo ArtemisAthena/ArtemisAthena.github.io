@@ -55,7 +55,7 @@ ul {
 
 @media only screen and (max-width: 768px) {
     li {
-        font-size: 3.7vw; 
+        font-size: 3.7vw !important; 
         padding: 1vw;
     }
     p {
